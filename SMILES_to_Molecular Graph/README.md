@@ -1,5 +1,8 @@
 #  Convert SMILES to Molecular Graph
-![alt text](https://github.com/hjooya/Chemical-Data-Processing/blob/main/SMILES_to_Molecular%20Graph/SMILES_to_Graph.jpg)
+
+<p align="center">
+  <img src="https://github.com/hjooya/Chemical-Data-Processing/blob/main/SMILES_to_Molecular%20Graph/SMILES_to_Graph.jpg" width="600" height="300" />
+</p>
 
 This simple example demonstrates how to use [MATLAB](https://matlab.mathworks.com/)-[RDKit](https://www.rdkit.org/) together for molecular structure processing. Using a single molecule input, we are illustrating the construction of a high throughput workflow that process [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) database and generates mathematical graph objects that can be then fed into graph neural networks to perform other predictive tasks. 
 
